@@ -1,9 +1,8 @@
 // Replace with your coordinates
 // -----------------------------------
 
-var latitude = 40.7127840;
-	longitude = -74.0059410;
-	
+var latitude = 10.011686;
+	longitude = 76.360738;
 // -----------------------------------
 var myMap = (function(a,b,c){
 	var latA = a;
