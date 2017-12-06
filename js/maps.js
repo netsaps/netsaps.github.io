@@ -58,7 +58,7 @@ var myMap = (function(a,b,c){
 	marker = new google.maps.Marker({
 		position: myLatlng,
 		map: map,
-		icon: "http://webnextbd.net/demo/images/marker.png"
+		//icon: "http://www.icon100.com/up/3964/128/59-Map-mark-symbol-of-iOS-7.png"
 				
 	});
 
