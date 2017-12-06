@@ -576,7 +576,7 @@ border: 0 !important;
 }
 
 #map1 {
-	 width: 450px;
+	 width: auto;
 	 height: 400px;
 	  -webkit: width:450px; height:400px;
 	  -moz: width:450px; height:400px;
@@ -1475,7 +1475,7 @@ body.mobile .animated {
 		 height:300px;
 	}
 	#map1 {
-		 width:350px;
+		 width:auto;
 		 height:300px;
 	}
 	.text-primary{
@@ -1505,14 +1505,14 @@ body.mobile .animated {
 		 height:200px;
 	}
 	#map1 {
-		 width:250px;
+		 width:auto;
 		 height:200px;
 	}
 	.big-video {
 		 padding:10px;
 	}
 	.big-maps {
-		 padding:50px;
+		 padding:20px;
 	}
 	.main-site.fullscreen {
 		padding-left: 15px;
